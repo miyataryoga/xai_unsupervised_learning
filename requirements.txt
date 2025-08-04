@@ -1,0 +1,9 @@
+ucimlrepo==0.0.7
+lightgbm
+lime
+shap
+scikit-learn
+pandas
+xgboost
+seaborn
+matplotlib
