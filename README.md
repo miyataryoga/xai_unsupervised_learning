@@ -1,6 +1,6 @@
 # MSc Project: Explainable AI for Unsupervised Learning
 
-This project breaks down the analysis from the `msc_project.ipynb` notebook into a structured Python application. It compares a custom feature importance method for clustering (FICS) with traditional and model-agnostic methods (LIME, SHAP).
+This project breaks down the analysis of my MSc Project. It compares a custom feature importance method for clustering (FICS) with traditional and model-agnostic methods (LIME, SHAP).
 
 ## File Structure
 
@@ -29,5 +29,6 @@ This project breaks down the analysis from the `msc_project.ipynb` notebook into
     ```bash
     python main.py
     ```
+
 
 This will execute the full pipeline, print the resulting DataFrames to the console, and save the final correlation heatmap as `feature_importance_correlation_heatmap.png`.
